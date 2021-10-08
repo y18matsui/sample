@@ -7,7 +7,7 @@ public class Test
 {
 
 	// メンバ変数
-	public String name = "XCAT";
+	public String name = "Samurai";
 	
 	// メソッド
 	public String testMethod() {
